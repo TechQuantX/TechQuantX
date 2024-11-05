@@ -1,11 +1,13 @@
 #  Hello! I'm Muhamad Jaki
+![Profile Banner](https://raw.githubusercontent.com/TechQuantX/TechQuantX/refs/heads/main/muhamadjaki.png)
+
+
 **Full-Stack Developer | Tech Enthusiast | Constant Learner**
 
  Saat ini saya sedang meningkatkan mindset 2% setiap hari, sambil mendalami **Laravel** dan **Vue.js**.
 
 ## About Me
 Saya adalah pengembang yang selalu haus akan pengetahuan, mencari cara baru untuk mengembangkan keterampilan dan berkontribusi pada proyek yang berarti. Dalam waktu luang, saya suka membaca buku teknologi dan mengeksplorasi tren baru di dunia pemrograman.
-
 
 
 ##  Tech Stack
@@ -24,6 +26,22 @@ Saya adalah pengembang yang selalu haus akan pengetahuan, mencari cara baru untu
 
 ---
 
+ 
+
+##  Keterampilan dalam Kecerdasan Buatan (AI)
+Saya memiliki pengalaman dan keterampilan dalam menggunakan beberapa alat dan teknologi kecerdasan buatan untuk membangun solusi inovatif. Berikut adalah beberapa teknologi yang saya kuasai:
+
+- **TensorFlow**: Framework open-source untuk machine learning dan deep learning.
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white)
+
+- **PyTorch**: Framework yang populer untuk pengembangan model deep learning yang fleksibel.
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+- **OpenAI**: Menggunakan API OpenAI untuk mengembangkan aplikasi cerdas berbasis AI.
+![OpenAI](https://img.shields.io/badge/-OpenAI-00A300?style=flat&logo=openai&logoColor=white)
+
+---
+
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechQuantX&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechQuantX&layout=compact&theme=radical)
@@ -37,6 +55,19 @@ Saya adalah pengembang yang selalu haus akan pengetahuan, mencari cara baru untu
 
 ---
 
+## Certifications
+🎓 **Sertifikat Digital Marketing**  
+🎓 **Sertifikat Pengembangan Web**  
+
+---
+
+---
+
+## Testimonials
+>  
+>  
+
+---
 ##  Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-jaki-1050a62b4/)
 [![X (Twitter)](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/zaki1891338562)
@@ -44,7 +75,7 @@ Saya adalah pengembang yang selalu haus akan pengetahuan, mencari cara baru untu
 
 ---
 
-> **Motto**: "Menjelajahi bidang kode dan kreativitas! | Selalu mengejar tantangan"
+>                      **Motto**: "Menjelajahi bidang kode dan kreativitas! | Selalu mengejar tantangan"
 
 ---
 
